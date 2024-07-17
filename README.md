@@ -1,3 +1,3 @@
 <p align="centre">
-  <img src="https://stsci-opo.org/STScI-01HQP7771P4QR3Q3DNT1Q90ZTV.png" alt ="NGC 604 (NIRCam Compass Image)">
+  <img src="https://live.staticflickr.com/65535/52211883534_f45cb76810_z.jpg" alt ="Image">
 </p>
