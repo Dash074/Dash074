@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Darshan Nair</h1>
-<h3 align="center">An AI/ML enthusiast</h3>
+<h1 align="center">Darshan Nair</h1>
+<h3 align="center">Tinkerer!</h3>
 <img align= "right" width = 400 src="https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/1sCJmf4a2ZutgWqVVbxDqx/d64001d0f931466b76cf151608d34e69/space-wheee.gif" alt ="Image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dash074&label=Profile%20views&color=0e75b6&style=flat" alt="dash074" /> </p>
 
